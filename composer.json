@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "php -S 127.0.0.1:8000"
+  },
+  "require": {
+    "respect/validation": "^2.3",
+    "intervention/image": "^3.8"
+  }
+}
